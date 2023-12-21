@@ -63,6 +63,6 @@ int main()
     std::cout << calibration_sum <<'\n';
 
 
-    return 0;
+//    return 0;
 }
 
